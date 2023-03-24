@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "anlegg-og-transport",
+  "private_key_id": "71e117fe9131836f91d5a331fdc8ef01618294fc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIFblf+A1zR3dU\niFvudPkqF5Y4FLbPNcb2+ywb+sGwnvfx4+8rCfmrDaLZeMVJd/zN5OmZ55jLZpKL\niP9kXJN5O5kEI0g4gtixpf1ZSmPsiBBKMmmAR1DyCfOYSH/I9I7BDcxs5kE8k2j8\n1fKJc0FXCSrzMlYmnUUT5EeRae6ZAWXKUp8EW7hTC3P2DKOV+pjdvCyvfXvI857u\nju4LM2esiwZJSyKIxjEerrHZH4oTH6CXlhfonw8A6SrlaBaE4xtaglFJaDl8Hz2O\nJiv1M2EymPVAHg3MxlOZ2kPT85uW1cSxPgrtrU+TG6FBU/jnMlqt7m2WDhA3fQaL\n62bMeVLtAgMBAAECggEAT24YXlnZ9Ra876kGXd6//47HitHmVNIzf17s/tqIQ/aH\n1dY33y0hmV9bc9v27hidGpuyhO+k/7JjoNMtGAmMXgdj0nmzNQP0xGlx7x2SF5dY\naCwlJ9Cn+L4snxrA5+T2OvugWOb7pPGcLys8EobXvJaeH1evTbsHbkMkijy0hLaO\nnq1CKv/GtNpcGPb5VtGVyQ3cHYjuxItWjg6XWZ6cxFd6bPRvmb0284VGbjlZ0crB\nzH7QxtksGsfGAGJl/7VUd945WgarHDBEIW896v240rhQ1Y/ZBB/aq3k5t3mErFAp\nsAor+5PXJ7ZseANiNcxkpYIw/F96cA/PM9K6mZZCPQKBgQDk27zlVZWHipZ6x7dI\nUTxM4EfqxRs4tIpqAY0UWYSrb3yqC3ImVOsHUoUVgR15+F5yhQ2YqVtgHp+JLFAb\nxLd8/WBT8HzudWRrWPmlaH7+GkdZ9OzikIrx+CuTdUjVjO9CaZPEfiojVoBMWuWT\n+Q7k6odyYzilBsFGJnVcbb1ttwKBgQDf0GhbHFIBi9Lsamn/THfguxa1qAOzCAgT\n8G4VUhmSOS1E6EhikD45CDFEOWOVfYemse48sc8fTZ7Yid5xYJWIGDVkMxDFbw5+\ntfZdQobKqd3WPB7pF8v33vwgK/DmWp4FCbm5KMvK5ZQeChT9BV++XJk1SWbDWVRk\nfLQESTdEewKBgGgFaIpkqB5/Y35TIH+CTQI0Pvv6szDG/tLH+bPyLFcvyV4Q7cV2\ne41MeKkZkqhJt8QdrdxhveKmiKT0u0Sj2TK6h/ofKOnJ+ebA/lesc2xTzXKZ3MHu\nKPlqb4QKnxxRfr6U9lEtd0Gwo4gRGKB1Z8usvfvEFY8MzvRvrpBgYOVpAoGAbidF\nZSowFkC6A89v8c2x5nJOAAP8Jh4a061ukKHCohvv8s0b6x6w8SLeFITmRUnt/JXv\n+gFNPkvWlR5t04FEtyGrDXCwnWtGSAjIgyfd7VrjKrCWSgSDR7CAiFj4DHem9DXQ\nKZgxjN+nIY22vLzrXWZ3pSlGIXkStw5FDyL1x4cCgYEAsTVOXt7Lto1jG2RZe+i3\ncxA7tPmXRNzHQN9gvKxvZOHoZYuZDpjTlC/crCai0W5AYSkWGB8RL+CqhSeCbPU2\nxk2Izilrd8YG1GBQVUNkqjopfw5lsD3dbz/SspEx2N+6Se7T5bD29q5+3lbmgxor\n/n+AWkn+EnW8CRp3mZ6xK6s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "anlegg-og-transport@appspot.gserviceaccount.com",
+  "client_id": "107762200611908925558",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anlegg-og-transport%40appspot.gserviceaccount.com"
+}
